@@ -527,4 +527,8 @@
         <item>高</item>
         <item>超</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">重要！</string>
+
 </resources>

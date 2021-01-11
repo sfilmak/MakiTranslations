@@ -588,4 +588,8 @@
 
     <string name="open_on_new_page">在新頁面開啟</string>
     <string name="open_on_new_page_summary">在新螢幕開啟 Facebook 頁面</string>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">重要！</string>
+
 </resources>

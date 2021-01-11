@@ -543,4 +543,8 @@
         <item>高い</item>
         <item>ウルトラ</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">重要！</string>
+
 </resources>

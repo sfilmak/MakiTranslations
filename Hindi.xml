@@ -525,4 +525,8 @@
         <item>उच्च</item>
         <item>उत्तम</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">जरूरी!</string>
+
 </resources>

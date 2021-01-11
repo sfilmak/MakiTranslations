@@ -521,4 +521,8 @@
         <item>Hoog</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Belangrijk!</string>
+    <string name="facebook_issue_message">Als je geen berichten ziet - tik op "OK" om ze te herstellen. Als je ze ziet, negeer dan dit bericht. Dank je.</string>
 </resources>

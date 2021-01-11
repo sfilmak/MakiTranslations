@@ -479,4 +479,8 @@
         <item>Nagy</item>
         <item>Fantasztikus</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Fontos!</string>
+    <string name="facebook_issue_message">Ha nem látja az üzeneteket - érintse meg az "OK" gombot azok kijavításához. Ha látja őket, hagyja figyelmen kívül ezt az üzenetet. Köszönöm.</string>
 </resources>

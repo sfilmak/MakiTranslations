@@ -534,4 +534,8 @@
         <item>Висока</item>
         <item>Ультра</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Важливо!</string>
+    <string name="facebook_issue_message">Якщо Ви не бачите повідомлень - натисніть "OK", щоб виправити їх. Дякую.</string>
 </resources>

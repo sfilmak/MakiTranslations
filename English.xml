@@ -526,7 +526,7 @@
     <string name="video_stream_error_summary">It seems that something is going wrong. Please try again.</string>
 
     <!--Maki 4.7 Hortensia-->
-    <string name="auto_dark_list">Night theme</string>
+    <string name="auto_dark_list">Select Auto Night theme</string>
     <string name="mute_audio">Mute audio</string>
     <string name="unmute_audio">Unmute audio</string>
 
@@ -588,4 +588,48 @@
 
     <string name="open_on_new_page">Open on new page</string>
     <string name="open_on_new_page_summary">Open Facebook pages on a new screen</string>
+
+    <!--4.8.9.2-->
+    <string name="hide_ig_suggestions">Hide suggestions</string>
+
+    <!--4.8.9.3-->
+    <string name="quickview_by_default">Quick View By Default</string>
+    <string name="quickview_by_default_summary">Open external links in Quick View instead of app browser</string>
+
+    <!--4.8.9.4-->
+    <string name="snow_effect">Snow effect</string>
+    <string name="hide_related">Hide related</string>
+    <string name="hide_related_summary">Hide related publications after pressing Like button</string>
+
+    <string name="facebook_issue">Not a problem with Maki; it is a %1$s issue. We should wait when they fix it</string>
+
+    <string name="most_recent_feed_problems">The Most Recent Feed may not work. %1$s</string>
+    <string name="feed_problems">The News Feed may not work. %1$s</string>
+    <string name="messages_problems">FB Messages may not work. %1$s</string>
+    <string name="general_problem">%1$s may not work. %2$s</string>
+
+    <string name="down_link">https://downdetector.com/status/%1$s</string>
+
+    <string name="facebook_issue_message">Facebook broke messages - it is not an issue with Maki.\n\n If you don\'t see messages - tap "OK" to fix them. If you see them - ignore this message. Thank you.</string>
+    <string name="important">Important</string>
+
+    <string name="switch_messenger">Switch</string>
+    <string name="skip">Skip</string>
+
+    <!--Maki 4.9-->
+    <string name="advanced_settings">Advanced</string>
+    <string name="backup_and_restore">Backup &amp; restore</string>
+    <string name="backup_favorites">Export favorites</string>
+    <string name="backup_favorites_summary">Save your favorites to a file</string>
+
+    <string name="restore_favorites">Import favorites</string>
+    <string name="restore_favorites_summary">Import favorites from a file</string>
+
+    <string name="backup_settings">Export settings</string>
+    <string name="backup_settings_summary">Save settings to a file</string>
+
+    <string name="restore_settings">Export settings</string>
+    <string name="restore_settings_summary">Import settings from a file</string>
+
+    <string name="error_format">Error: wrong extension of a file</string>
 </resources>

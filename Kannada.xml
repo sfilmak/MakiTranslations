@@ -588,4 +588,8 @@
 
     <string name="open_on_new_page">ಹೊಸ ಪುಟದಲ್ಲಿ ತೆರೆಯಿರಿ</string>
     <string name="open_on_new_page_summary">ಹೊಸ ಪರದೆಯಲ್ಲಿ ಫೇಸ್‌ಬುಕ್ ಪುಟಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">"ಪ್ರಮುಖ! "</string>
+
 </resources>

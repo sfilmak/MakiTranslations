@@ -517,4 +517,8 @@
         <item>Yüksek</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Önemli mesaj!</string>
+    <string name="facebook_issue_message">Mesajları görmüyorsanız - düzeltmek için "Tamam" a dokunun. Onları görürseniz - bu mesajı dikkate almayın. Teşekkür ederim.</string>
 </resources>

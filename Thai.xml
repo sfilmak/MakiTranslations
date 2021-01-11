@@ -517,4 +517,8 @@
         <item>สูง</item>
         <item>อัลตร้า</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">ข้อความสำคัญ!</string>
+
 </resources>

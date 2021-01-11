@@ -519,4 +519,8 @@
         <item>Vysoký</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Důležité</string>
+    <string name="facebook_issue_message">Pokud zprávy nevidíte - opravte je klepnutím na „OK“. Pokud je vidíte - tuto zprávu ignorujte. Děkuji.</string>
 </resources>

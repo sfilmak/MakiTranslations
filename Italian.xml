@@ -555,5 +555,9 @@
         <item>Alto</item>
         <item>Eccezionale</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Importante!</string>
+    <string name="facebook_issue_message">Se non vedi i messaggi, tocca "OK" per correggerli. Se li vedi, ignora questo messaggio. Grazie.</string>
 </resources>
 

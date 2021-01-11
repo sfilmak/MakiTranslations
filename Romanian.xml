@@ -477,4 +477,8 @@
         <item>Înalt</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Mesaj important!</string>
+    <string name="facebook_issue_message">Dacă nu vedeți mesaje - atingeți „OK” pentru a le remedia. Dacă le vedeți - ignorați acest mesaj. Mulțumesc.</string>
 </resources>

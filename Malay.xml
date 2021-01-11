@@ -523,4 +523,8 @@
         <item>Tinggi</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Penting!</string>
+
 </resources>

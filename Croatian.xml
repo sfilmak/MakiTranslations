@@ -525,4 +525,8 @@
         <item>Sjajno</item>
         <item>Super</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Važno!</string>
+    <string name="facebook_issue_message">Ako ne vidite poruke, dodirnite "U redu" da biste ih popravili. Ako ih vidite - zanemarite ovu poruku. Hvala vam.</string>
 </resources>

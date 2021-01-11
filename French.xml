@@ -482,4 +482,8 @@
         <item>Haut</item>
         <item>Ultra</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Important!</string>
+    <string name="facebook_issue_message">Si vous ne voyez pas de messages, appuyez sur "OK" pour les corriger. Si vous les voyez, ignorez ce message. Je vous remercie.</string>
 </resources>

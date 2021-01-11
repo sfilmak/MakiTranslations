@@ -539,4 +539,8 @@
         <item>Высокая</item>
         <item>Ультра</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">Важно!</string>
+    <string name="facebook_issue_message">Facebook сломал сообщения - это не проблема Маки. Если Вы не видите сообщений - нажмите «ОК», чтобы исправить их. Если Вы их видите - игнорируйте это сообщение. Спасибо.</string>
 </resources>

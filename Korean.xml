@@ -524,4 +524,8 @@
         <item>높은</item>
         <item>극단론자</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">중대한!</string>
+
 </resources>

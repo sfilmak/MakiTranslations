@@ -531,4 +531,7 @@
         <item>উচ্চ</item>
         <item>আল্ট্রা</item>
     </array>
+
+    <!--Maki 4.8.9.4 Marigold-->
+    <string name="important">গুরুত্বপূর্ণ</string>
 </resources>
