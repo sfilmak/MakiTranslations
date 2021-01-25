@@ -15,7 +15,7 @@
     <string name="messages">訊息</string>
     <string name="favorites">最愛</string>
     <string name="photos">相片</string>
-    <string name="privacy">私隱設定</string>
+    <string name="privacy">隱私設定</string>
     <string name="fb_chat">上線的朋友</string>
     <string name="pokes">戳一下</string>
     <string name="refresh">重新整理</string>
@@ -90,7 +90,7 @@
     <string name="ratemaki">評價 Maki</string>
     <string name="feedback_mail">問題回報</string>
     <string name="messenger_app">Facebook Messenger 應用程式</string>
-    <string name="messenger_app_more">使用 Facebook Messager 應用程式代替內建訊息程式</string>
+    <string name="messenger_app_more">使用 Facebook Messenger 應用程式代替內建訊息程式</string>
     <string name="addHome">新增至主熒幕</string>
     <string name="power_saving_mode">節電模式</string>
     <string name="thanks_support">感謝您的支持！</string>
@@ -117,11 +117,11 @@
     <string name="fbpage">Facebook 粉絲專頁</string>
 
     <string-array name="messenger_choice">
-        <item>Maki 內建 Messager</item>
+        <item>Maki 內建 Messenger</item>
         <item>簡化版 Messenger</item>
         <item>Messenger 應用程式</item>
         <item>Messenger Lite 應用程式</item>
-        <item>Disa Messager 應用程式</item>
+        <item>Disa Messenger 應用程式</item>
     </string-array>
 
     <string name="problems_purchase">
@@ -335,7 +335,7 @@
     <string name="intro_title">歡迎來到 Maki</string>
 
     <string name="facebook_play">Watch 影片</string>
-    <string name="marketplace">Marketplace</string>
+    <string name="marketplace">市集</string>
 
     <!--3.7-->
     <string name="enabled">已啟用</string>
@@ -367,7 +367,7 @@
     <string name="disable_swipe_tabs">禁用滑動</string>
     <string name="disable_swipe_tabs_summary">在 Maki 主介面上的頁面之間禁用滑動</string>
 
-    <string name="maki_update">一次升級已可用！</string>
+    <string name="maki_update">一個升級已可用！</string>
     <string name="maki_update_summary">在 %1$s 取得包含改進與漏洞修復的最新版本 Maki。點此更新。</string>
 
     <string name="check_for_updates">檢查更新</string>
@@ -393,7 +393,7 @@
     <string name="audio_call">音訊通話</string>
     <string name="video_call">視訊通話</string>
     <string name="group_chat">群組聊天</string>
-    <string name="file_chooser_error">無法開啟檔案選擇器</string>
+    <string name="file_chooser_error">無法開啟檔案選取器</string>
 
     <string name="chat_bubbles">聊天大頭貼</string>
     <string name="chat_bubbles_summary">在聊天大頭貼中開啟通知</string>
@@ -413,7 +413,7 @@
     <string name="restart">還有一步</string>
     <string name="restart_summary">再次關閉並打開對話以錄製語音訊息</string>
 
-    <string name="chat_bubbles_foreground">聊天大頭貼正在背景運行</string>
+    <string name="chat_bubbles_foreground">聊天大頭貼正在背景運作</string>
     <string name="privacy_plus">非常友好</string>
     <string name="privacy_plus_summary">Maki 不會蒐集和出售您的個人資訊 - 您的隱私比我們的收入重要得多</string>
 
@@ -589,7 +589,47 @@
     <string name="open_on_new_page">在新頁面開啟</string>
     <string name="open_on_new_page_summary">在新螢幕開啟 Facebook 頁面</string>
 
-    <!--Maki 4.8.9.4 Marigold-->
-    <string name="important">重要！</string>
+    <!--4.8.9.2-->
+    <string name="hide_ig_suggestions">隱藏建議</string>
 
+    <!--4.8.9.3-->
+    <string name="quickview_by_default">預設使用快速預覽</string>
+    <string name="quickview_by_default_summary">在快速預覽而不是程式內瀏覽器中開啟外部連結</string>
+
+    <!--4.8.9.4-->
+    <string name="snow_effect">白雪特效</string>
+    <string name="hide_related">隱藏相關</string>
+    <string name="hide_related_summary">在讚好後隱藏相關內容推薦</string>
+
+    <string name="facebook_issue">這是 %1$s 問題而不是 Maki 問題。我們應該靜待其被修復</string>
+
+    <string name="most_recent_feed_problems">最近動態可能不工作。 %1$s</string>
+    <string name="feed_problems">動態彙總可能不工作。 %1$s</string>
+    <string name="messages_problems">FB訊息可能不工作。 %1$s</string>
+    <string name="general_problem">%1$s 可能不工作。 %2$s</string>
+
+    <string name="down_link">https://downdetector.com/status/%1$s</string>
+
+    <string name="facebook_issue_message">Facebook 破壞了訊息 - 這不是 Maki 的問題。\n\n 如果你看不見訊息 - 點擊確認以修復。如果你能看見訊息 - 請忽視此訊息。非常感謝。</string>
+    <string name="important">重要</string>
+
+    <string name="switch_messenger">切換</string>
+    <string name="skip">跳過</string>
+
+    <!--Maki 4.9-->
+    <string name="advanced_settings">進階</string>
+    <string name="backup_and_restore">備份與恢復</string>
+    <string name="backup_favorites">匯出最愛</string>
+    <string name="backup_favorites_summary">儲存你的最愛至檔案</string>
+
+    <string name="restore_favorites">匯入最愛</string>
+    <string name="restore_favorites_summary">從檔案匯入你的最愛</string>
+
+    <string name="backup_settings">匯出設定</string>
+    <string name="backup_settings_summary">儲存設定至檔案</string>
+
+    <string name="restore_settings">匯入設定</string>
+    <string name="restore_settings_summary">從檔案匯入設定</string>
+
+    <string name="error_format">錯誤：副檔名不正確</string>
 </resources>
