@@ -227,8 +227,8 @@
     <string name="most_recent_nav">Le plus récent</string>
 
     <!--2.6.2-->
-    <string name="hide_stories">Supprimer des histoires</string>
-    <string name="hide_stories_summary">Masquer les histoires de votre fil d\'actualité</string>
+    <string name="hide_stories">Supprimer des stories</string>
+    <string name="hide_stories_summary">Masquer les stories de votre fil d\'actualité</string>
 
     <!--Intro-->
     <string name="welcome_plus">Salut !</string>
