@@ -84,11 +84,11 @@
     <string name="removed">Supprimer</string>
     <string name="auto_night_title">Thème sombre automatique</string>
     <string name="auto_night_more">Le thème sombre sera activé automatiquement aux heures sélectionner.</string>
-    <string name="save_to">Enregistrer dans :</string>
+    <string name="save_to">Enregistré dans :</string>
     <string name="font_size">Taille de la police</string>
     <string name="quickbar">Barre d\'accès rapide</string>
     <string name="ratemaki">Noter Maki</string>
-    <string name="feedback_mail">Retour d\'information</string>
+    <string name="feedback_mail">Retour d\'utilisation</string>
     <string name="messenger_app">Application Facebook Messenger</string>
     <string name="messenger_app_more">Utiliser l\'application Facebook Messenger au lieu de Messenger intégré.</string>
     <string name="addHome">Ajouter à l\'écran d\'accueil</string>
@@ -129,9 +129,9 @@
         "Merci beaucoup de nous soutenir ! Malheureusement, il semble que vous ayez des problèmes avec l\'achat. Eh bien, cette page a été créée pour vous aider à résoudre ce problème.
         \n \n
         Nous avons quelques solutions possibles: \n \n
-        1) Redémarrez Maki. Fermez simplement une application et lancez-la à partir de rien, ouvrez les paramètres et essayez d\'activer n\'importe quelle fonctionnalité Plus.
+        1) Redémarrez Maki. Fermez simplement l'application et lancez-la à nouveau, ouvrez les paramètres et essayez d\'activer n\'importe quelle fonctionnalité Plus.
         \n \n
-        2) Si la première solution ne fonctionne pas, essayez de cliquer à nouveau sur \"Acheter Maki Plus\". Cette action restaurera votre achat (vous ne dépenserez plus votre argent, ne vous inquiétez pas). Après cela, redémarrez l\'application et essayez d\'activer n\'importe quelle fonctionnalité Plus.
+        2) Si la première solution ne fonctionne pas, essayez de cliquer à nouveau sur \"Acheter Maki Plus\". Cette action restaurera votre achat (vous ne serez pas prelevé à nouveau, ne vous inquiétez pas). Après cela, redémarrez l\'application et essayez d\'activer n\'importe quelle fonctionnalité Plus.
         \n \n
         3) Après tout, si rien de tout cela ne fonctionne, contactez-nous ! Nous allons certainement trouver la meilleure solution ensemble.
         \n \n
@@ -220,15 +220,15 @@
     <string name="find_friends_nav">Retrouver des amis</string>
     <string name="events_nav">Événements</string>
     <string name="this_day_nav">En ce jour</string>
-    <string name="saved_nav">Enregistrer</string>
+    <string name="saved_nav">Enregistré</string>
     <string name="pages_nav">Pages</string>
     <string name="local_nav">Local</string>
     <string name="photos_nav">Photos</string>
     <string name="most_recent_nav">Le plus récent</string>
 
     <!--2.6.2-->
-    <string name="hide_stories">Supprimer des histoires</string>
-    <string name="hide_stories_summary">Masquer les histoires de votre fil d\'actualité</string>
+    <string name="hide_stories">Supprimer des stories</string>
+    <string name="hide_stories_summary">Masquer les stories de votre fil d\'actualité</string>
 
     <!--Intro-->
     <string name="welcome_plus">Salut !</string>
@@ -455,7 +455,7 @@
     <string name="twitter_theme_summary">Appliquer un thème personnalisé sur Twitter</string>
 
     <!--Maki 4.1.6 Hortensia-->
-    <string name="hide_ig_stories">Masquer l\'histoire Instagram</string>
+    <string name="hide_ig_stories">Masquer stories d'Instagram</string>
 
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Navigateur intégré à l\'application</string>
@@ -587,14 +587,14 @@
     </array>
 
     <string name="open_on_new_page">Ouvrir sur une nouvelle page</string>
-    <string name="open_on_new_page_summary">Ouvrez les pages Facebook sur un nouvel écran</string>
+    <string name="open_on_new_page_summary">Ouvrez les pages Facebook sur une nouvelle fenêtres</string>
 
     <!--4.8.9.2-->
     <string name="hide_ig_suggestions">Masquer les suggestions</string>
 
     <!--4.8.9.3-->
     <string name="quickview_by_default">Vue rapide par défaut</string>
-    <string name="quickview_by_default_summary">Ouvrez des liens externes dans la Vue rapide au lieu du navigateur d’application</string>
+    <string name="quickview_by_default_summary">Ouvrez des liens externes dans la Vue rapide au lieu du navigateur</string>
 
     <!--4.8.9.4-->
     <string name="hide_related">Masquer proches</string>
@@ -617,14 +617,14 @@
 
     <!--Maki 4.9-->
     <string name="advanced_settings">Avancé</string>
-    <string name="backup_and_restore">Sauvegarde &amp; restaurer</string>
+    <string name="backup_and_restore">Sauvegarder &amp; restaurer</string>
     <string name="backup_favorites">Exporter les favoris</string>
     <string name="backup_favorites_summary">Enregistrez vos favoris dans un fichier</string>
 
     <string name="restore_favorites">Importer les favoris</string>
     <string name="restore_favorites_summary">Importer des favoris à partir d’un fichier</string>
 
-    <string name="backup_settings">Exporter les paramètres</string>
+    <string name="backup_settings">Enregistrer les paramètres</string>
     <string name="backup_settings_summary">Enregistrer les paramètres dans un fichier</string>
 
     <string name="restore_settings">Exporter les paramètres</string>
