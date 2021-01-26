@@ -455,7 +455,7 @@
     <string name="twitter_theme_summary">Appliquer un thème personnalisé sur Twitter</string>
 
     <!--Maki 4.1.6 Hortensia-->
-    <string name="hide_ig_stories">Masquer l\'histoire Instagram</string>
+    <string name="hide_ig_stories">Masquer stories d'Instagram</string>
 
     <!--Maki 4.2 Hortensia-->
     <string name="open_in">Navigateur intégré à l\'application</string>
@@ -587,7 +587,7 @@
     </array>
 
     <string name="open_on_new_page">Ouvrir sur une nouvelle page</string>
-    <string name="open_on_new_page_summary">Ouvrez les pages Facebook sur un nouvel écran</string>
+    <string name="open_on_new_page_summary">Ouvrez les pages Facebook sur une nouvelle fenêtres</string>
 
     <!--4.8.9.2-->
     <string name="hide_ig_suggestions">Masquer les suggestions</string>
