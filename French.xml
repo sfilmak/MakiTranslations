@@ -64,7 +64,7 @@
     <string name="content_copy_link_done">Lien copié dans le presse-papier</string>
     <string name="permission_denied">Permission refusée. Cette action ne peut pas être terminée.</string>
     <string name="save_img">Sauvegarder</string>
-    <string name="download_manager_disabled">Gestionnaire de téléchargement désactiver</string>
+    <string name="download_manager_disabled">Gestionnaire de téléchargement désactivé</string>
     <string name="hide_ads">Supprimer les messages sponsorisés</string>
     <string name="hide_ads_more">Supprimer toute la publicité dans le fil de l\'actualité</string>
     <string name="exit_message">Êtes-vous sûr de vouloir quitter Maki ?</string>
@@ -77,7 +77,7 @@
     <string name="pin_code_step_unlock">Entrer le code d\'accès</string>
     <string name="pin_code_step_enable_confirm">Confirmer le code</string>
     <string name="pin_code_fingerprint_text">Empreinte digitale</string>
-    <string name="pin_code_fingerprint_not_recognized">Réessayer</string>
+    <string name="pin_code_fingerprint_not_recognized">Réessayez</string>
     <string name="open_in_browser">Ouvrir dans le navigateur</string>
     <string name="copy_url">Copier dans le presse-papier</string>
     <string name="download">Téléchargé</string>
@@ -94,7 +94,7 @@
     <string name="addHome">Ajouter à l\'écran d\'accueil</string>
     <string name="power_saving_mode">Mode économie d\'énergie</string>
     <string name="thanks_support">Merci pour votre aide !</string>
-    <string name="unable_purchase">Achat annuler</string>
+    <string name="unable_purchase">Achat annulé</string>
     <string name="added">Enregistré dans les favoris</string>
     <string name="download_complete">Téléchargement terminé</string>
     <string name="license">Licences open source</string>
@@ -126,7 +126,7 @@
 
     <string name="problems_purchase">
 
-        "Merci beaucoup de nous soutenir ! Malheureusement, il semble que vous ayez des problèmes avec l\'achat. Eh bien, cette page a été créée pour vous aider à résoudre ce problème.
+        "Merci beaucoup de nous soutenir ! Malheureusement, il semble que vous ayez des problèmes avec l\'achat. Eh bien, cette page a été créée pour vous aidez à résoudre ce problème.
         \n \n
         Nous avons quelques solutions possibles: \n \n
         1) Redémarrez Maki. Fermez simplement l'application et lancez-la à nouveau, ouvrez les paramètres et essayez d\'activer n\'importe quelle fonctionnalité Plus.
@@ -260,13 +260,13 @@
     <string name="quickbar_more">Accédez à vos réseaux sociaux simplement.</string>
 
     <string name="plus_dark">Protégez vos yeux la nuit avec un thème sombre automatique.</string>
-    <string name="plus_summary">Obtenez une toute nouvelle expérience d\'utilisation de Maki - la meilleure application sociale jamais réaliser, avec l\'extensions Plus.</string>
+    <string name="plus_summary">Obtenez une toute nouvelle expérience d\'utilisation de Maki - la meilleure application sociale jamais réalisé, avec l\'extensions Plus.</string>
 
     <string name="give_permission">Autorisations requises</string>
     <string name="give_permission_summary">Vous devez donner des autorisations avant d\'appeler vos amis.</string>
     <string name="allow">Permettre</string>
     <string name="manage">Gérer les médias sociaux</string>
-    <string name="manage_summary">Masquer où  afficher les médias sociaux favoris dans le volet.</string>
+    <string name="manage_summary">Masquer où afficher les médias sociaux favoris dans le volet.</string>
 
     <!--3.1-->
     <string name="mark_notifications">Marquer comme lu</string>
@@ -274,7 +274,7 @@
     <!--3.2-->
     <string name="keyword_post">Supprimer les messages par mot clé</string>
     <string name="keyword_post_summary">Masquer les publications dans le fil d\'actualité par mot clé</string>
-    <string name="blocked_keywords">Mots clés bloquer</string>
+    <string name="blocked_keywords">Mots clés bloqué</string>
 
     <string name="active_friends">Amis actifs</string>
     <string name="remove_keyword">Supprimer le mot clé</string>
@@ -318,7 +318,7 @@
     <string name="blocked_hours_disable_notifications_summary">Désactiver les notifications lorsque vous ne pouvez pas utiliser l\'application pendant des heures bloquées</string>
 
     <string name="maki_is_locked">Maki est verrouillé</string>
-    <string name="blocked_description">Vous définissez un intervalle de  %1$s à  %2$s pour limiter le temps sur l\'application.</string>
+    <string name="blocked_description">Vous définissez un intervalle de %1$s à %2$s pour limiter le temps sur l\'application.</string>
 
     <string name="blocked_hour">Intervalle bloquer</string>
     <string name="lock_usage_title">Nom de l\'intervalle</string>
@@ -612,7 +612,7 @@
     <string name="facebook_issue_message">Facebook a brisé les messages - ce n\'est pas un problème avec Maki.\n\n Si vous ne voyez pas de messages, appuyez sur "OK" pour les corriger. Si vous les voyez, ignorez ce message. Merci.</string>
     <string name="important">Important</string>
 
-    <string name="switch_messenger">Switch</string>
+    <string name="switch_messenger">Switcher</string>
     <string name="skip">Passer</string>
 
     <!--Maki 4.9-->
