@@ -83,7 +83,7 @@
     <string name="download">Téléchargé</string>
     <string name="removed">Supprimer</string>
     <string name="auto_night_title">Thème nuit automatique</string>
-    <string name="auto_night_more">Le thème nuit sera activé automatiquement aux heures sélectionner.</string>
+    <string name="auto_night_more">Le thème nuit sera activé automatiquement aux heures sélectionnées.</string>
     <string name="save_to">Enregistré dans :</string>
     <string name="font_size">Taille de la police</string>
     <string name="quickbar">Barre d\'accès rapide</string>
