@@ -77,7 +77,7 @@
     <string name="pin_code_step_unlock">Entrer le code d\'accès</string>
     <string name="pin_code_step_enable_confirm">Confirmer le code</string>
     <string name="pin_code_fingerprint_text">Empreinte digitale</string>
-    <string name="pin_code_fingerprint_not_recognized">Réessayez</string>
+    <string name="pin_code_fingerprint_not_recognized">Réessayer</string>
     <string name="open_in_browser">Ouvrir dans le navigateur</string>
     <string name="copy_url">Copier dans le presse-papier</string>
     <string name="download">Téléchargé</string>
